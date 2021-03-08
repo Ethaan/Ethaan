@@ -1,1 +1,3 @@
-# Ethan
+# Ethaan
+
+Software Development | Mexico
