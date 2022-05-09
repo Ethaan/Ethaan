@@ -12,3 +12,5 @@ Looking to work on some sort of Agency/Earlier Startup, primarly with one of the
 [Email Me](mailto:ethan.rosanoo@gmail.com) | [Stackoverflow](https://stackoverflow.com/users/3961546/ethaan) | [Angelist](https://angel.co/u/ethaan) | [Random thoguhts](https://ethaan.js.org/)
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/ethaan/im-a-cm-b.svg)](https://www.codementor.io/@ethaan?refer=badge)
+[![Join me in Codewars](https://www.codewars.com/users/Ethaan/badges/large)](https://www.codewars.com/users/Ethaan)
+
