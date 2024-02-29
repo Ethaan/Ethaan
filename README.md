@@ -2,9 +2,7 @@
 
 Hi There, 🖖 I'm Ethan Escareño Rosano a Software Engineer from Playa del Carmen, Mexico 👁️ 👅 👁️
 
-
-**Open to Work** on some sort of Agency/Earlier Startup, primarly with one of the [following technologies](https://github.com/Ethaan?tab=stars).
-
+Working as a Founding Engineer at [Limo](https://www.limo.tech/) and building [dLogos](https://testnet.dlogos.xyz/) on the side
 Prev [@Mora](https://assessments.mora.com/https://onboardings.mora.com/find-your-doctor), [@Sapien Network](https://www.sapien.network/), [@Course Key](https://coursekey.com/), [@Edthena](https://www.edthena.com/).
 
 [Email Me](mailto:ethan.rosanoo@gmail.com) | [Stackoverflow](https://stackoverflow.com/users/3961546/ethaan) | [Angelist](https://angel.co/u/ethaan) | [Web](https://ethaan.github.io/)
